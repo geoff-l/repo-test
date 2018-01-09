@@ -1,3 +1,3 @@
 const family={id:1008, surname: 'LIU', address: 'Ci Li, Zhang Jia Jie, Hunan.'};
-console.log(family);
+console.log(family.address);
 // TODO...
